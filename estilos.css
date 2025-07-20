@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans:wght@400;600&display=swap');
+
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+h1, .display-5 {
+  font-family: 'Great Vibes', cursive;
+  font-size: 3rem;
+  color: #b21f66;
+}
+
+h4 {
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 2rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary {
+  background-color: #b21f66;
+  border-color: #b21f66;
+}
+
+.btn-primary:hover {
+  background-color: #93164f;
+  border-color: #93164f;
+}
+
+.countdown {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #b21f66;
+}
