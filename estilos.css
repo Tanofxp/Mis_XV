@@ -1,6 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
 
 body {
@@ -16,6 +17,9 @@ body {
 }
 .text2 {
   font-family: 'Merriweather', serif;
+}
+.text3 {
+  font-family: 'Playfair Display', serif;
 }
 
 h4 {
@@ -51,4 +55,22 @@ h4 {
   height: auto;
   display: block;
   margin: 0 auto;
+}
+
+.title {
+  font-size: 3.5rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.gold-line {
+  height: 5px;
+  width: 70%;
+  background: linear-gradient(to right, transparent, #d4af37, transparent);
+  margin: 20px auto;
+  border-radius: 2px;
+}
+.subtitle {
+  font-size: 1.8rem;
+  letter-spacing: 5px;
+  text-transform: uppercase;
 }
