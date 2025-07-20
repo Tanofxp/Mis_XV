@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unna:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&display=swap');
 
 
 body {
@@ -20,6 +22,16 @@ body {
 }
 .text3 {
   font-family: 'Playfair Display', serif;
+}
+.text4 {
+  font-family: 'Unna', serif;
+}
+
+.text5 {
+  font-family: 'Copperplate Gothic 32 BC', 'Copperplate', 'Gothic', serif;
+}
+.text6 {
+  font-family: "Libertinus Math", system-ui;
 }
 
 h4 {
