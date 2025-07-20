@@ -11,7 +11,7 @@ body {
 h1, .display-5 {
   font-family: 'Great Vibes', cursive;
   font-size: 3rem;
-  color: #b21f66;
+  color: #000000;
 }
 
 h4 {
@@ -27,17 +27,24 @@ h4 {
 }
 
 .btn-primary {
-  background-color: #b21f66;
-  border-color: #b21f66;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .btn-primary:hover {
-  background-color: #93164f;
-  border-color: #93164f;
+  background-color: #000000;
+  border-color: #000000;
 }
 
 .countdown {
   font-size: 2.5rem;
   font-weight: bold;
-  color: #b21f66;
+  color: #000000;
+}
+
+.gold-line-separator img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
